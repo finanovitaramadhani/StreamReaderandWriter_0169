@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ioFileWithPath", "ioFileWit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manualExeption", "manualExeption\manualExeption.vcxproj", "{EEFFDE9D-C7F2-46DF-8987-9DF68EC8C5B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exeptionStandard", "exeptionStandard\exeptionStandard.vcxproj", "{3F1FCF13-A01A-4868-8176-291E8BCBAACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{EEFFDE9D-C7F2-46DF-8987-9DF68EC8C5B2}.Release|x64.Build.0 = Release|x64
 		{EEFFDE9D-C7F2-46DF-8987-9DF68EC8C5B2}.Release|x86.ActiveCfg = Release|Win32
 		{EEFFDE9D-C7F2-46DF-8987-9DF68EC8C5B2}.Release|x86.Build.0 = Release|Win32
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Debug|x64.ActiveCfg = Debug|x64
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Debug|x64.Build.0 = Debug|x64
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Debug|x86.Build.0 = Debug|Win32
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Release|x64.ActiveCfg = Release|x64
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Release|x64.Build.0 = Release|x64
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Release|x86.ActiveCfg = Release|Win32
+		{3F1FCF13-A01A-4868-8176-291E8BCBAACC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
